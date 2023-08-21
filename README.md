@@ -4,7 +4,7 @@
 
 🔥 I study at Pdp Academy in programming and study at University and I am freelancier. <br />
 ❤️ I LOVE Football⚽ and Cristiano GOAT Ronaldo😎. <br/>
-📕 My English language level is Pre-Intermediate.
+📕 My English language level is Pre-Intermediate. <br/>
 📍 I'm from  and I live 	&#x1f1fa;&#x1f1ff;. <br/>
 👶 I'm 18 years old.
 
