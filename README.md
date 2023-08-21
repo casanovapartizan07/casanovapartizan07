@@ -15,8 +15,9 @@ Languages and tools I work with:
 <br />
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
-<code><img src="[https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png](https://th.bing.com/th/id/OIP.u7oKqd6mTcKzWkoT6vbMjwHaDV?pid=ImgDet&rs=1)" width="30px"></code>
+<code><img src="[[https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png](https://th.bing.com/th/id/OIP.u7oKqd6mTcKzWkoT6vbMjwHaDV?pid=ImgDet&rs=1)](https://th.bing.com/th/id/OIP.U1JdZJqmrRWCN8oI56wwQAHaFj?pid=ImgDet&rs=1)" width="30px"></code>
 
+<br />
 <br />
 
 - 📍 &nbsp; Current location: Uzbekistan, Tashkent
