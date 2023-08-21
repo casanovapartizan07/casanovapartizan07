@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casanovapartizan07&label=Profile%20views&color=0e75b6&style=flat" alt="Makhmudov Javlonbek" /> </p>
-Hi, I'm Makhmudov Javlonbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+Hi, I'm Makhmudov Javlonbek<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 🔥 I study at Pdp Academy in programming and study at University and I am freelancier. <br />
 ❤️ I LOVE Football⚽ and Cristiano GOAT Ronaldo😎. <br/>
 📕 My English language level is Pre-Intermediate.
