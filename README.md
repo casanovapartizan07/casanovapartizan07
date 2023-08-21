@@ -2,7 +2,7 @@
 
 ### Hi, I'm Makhmudov  Javlonbek<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-🔥 I study at Pdp Academy in programming and study at University and I am freelancier. <br />
+🔥 I study at Pdp Academy in programming and I am freelancier. <br />
 ❤️ I LOVE Football⚽ and Cristiano GOAT Ronaldo😎. <br/>
 📕 My English language level is Pre-Intermediate. <br/>
 📍 I'm from &#x1f1f9; &#x1f1f7; and I live 	&#x1f1fa;&#x1f1ff;. <br/>
