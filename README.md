@@ -10,10 +10,6 @@
 
 <br />
 
-<a href="https://www.telegram.com/c/xxxmakhmudovv07" target="_blank">
-</a>
-<br />
-
 ### Languages and tools I work with:
 
 <br />
@@ -26,4 +22,4 @@
 
 - 📍 &nbsp; Current location: Uzbekistan, Tashkent <br />
 - 📝&nbsp; Ask me about anything, I am happy to help <br />
-- 📨&nbsp; How to reach me: [@partizan.uzb](https://instagram.com/partizan.uzb/)
+- 📨&nbsp; How to reach me: [@partizan.uzb](https://instagram.com/partizan.uzb/) or [@xxxmakhmudovv07](https://telegram.com/xxxmakhmudovv07/)
