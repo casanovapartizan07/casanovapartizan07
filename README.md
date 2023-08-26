@@ -22,4 +22,4 @@
 
 - 📍 &nbsp; Current location: Uzbekistan, Tashkent <br />
 - 📝&nbsp; Ask me about anything, I am happy to help <br />
-- 📨&nbsp; How to reach me: instagram:[@partizan.uzb](https://instagram.com/partizan.uzb/) or telegram:[@xxxmakhmudovv07](https//telegram.me/xxxmakhmudovv07/)
+- 📨&nbsp; How to reach me: instagram:[@partizan.uzb](https://instagram.com/partizan.uzb/) or telegram:[@xxxmakhmudovv07](https//telegram.org/xxxmakhmudovv07/)
